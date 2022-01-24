@@ -4,4 +4,7 @@ class PagesController < ApplicationController
 
   def exercice2
   end
+
+  def exercice3
+  end
 end
